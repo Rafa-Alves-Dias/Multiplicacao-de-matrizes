@@ -1,0 +1,69 @@
+Tempo médio Sequencial (sem outliers): 1.2154 segundos
+Tempo médio MPI (sem outliers): 5.5781 segundos
+Speedup: 0.2179
+Tempo médio Sequencial (sem outliers): 1.2154 segundos
+Tempo médio MPI (sem outliers): 5.5781 segundos
+Speedup: 0.2179
+Tempo médio Sequencial (sem outliers): 1.1503 segundos
+Tempo médio MPI (sem outliers): 5.1872 segundos
+Speedup: 0.2218
+Tempo médio Sequencial (sem outliers): 0.9746 segundos
+Tempo médio MPI (sem outliers): 4.2758 segundos
+Speedup: 0.2279
+Tempo medio Sequencial (sem outliers): 0.9673 segundos
+Tempo medio MPI (sem outliers): 4.4590 segundos
+Speedup: 0.2169
+Tempo medio Sequencial (sem outliers): 1.0239 segundos
+Tempo medio MPI (sem outliers): 4.5582 segundos
+Speedup: 0.2246
+Tempo medio Sequencial (sem outliers): 0.9522 segundos
+Tempo medio MPI (sem outliers): 4.5099 segundos
+Speedup: 0.2111
+Tempo medio Sequencial (sem outliers): 0.9603 segundos
+Tempo medio MPI (sem outliers): 4.4898 segundos
+Speedup: 0.2139
+Tempo medio Sequencial (sem outliers): 0.9297 segundos
+Tempo medio MPI (sem outliers): 4.5590 segundos
+Speedup: 0.2039
+Tempo medio Sequencial (sem outliers): 1.1803 segundos
+Tempo medio MPI (sem outliers): 4.8713 segundos
+Speedup: 0.2423
+Tempo medio Sequencial (sem outliers): 1.0853 segundos
+Tempo medio MPI (sem outliers): 4.8144 segundos
+Speedup: 0.2254
+Tempo medio Sequencial (sem outliers): 1.1661 segundos
+Tempo medio MPI (sem outliers): 4.7886 segundos
+Speedup: 0.2435
+Tempo medio Sequencial (sem outliers): 1.3959 segundos
+Tempo medio MPI (sem outliers): 9.5947 segundos
+Speedup: 0.1455
+Tempo medio Sequencial (sem outliers): 1.2912 segundos
+Tempo medio MPI (sem outliers): 9.3009 segundos
+Speedup: 0.1388
+Tempo medio Sequencial (sem outliers): 4.2115 segundos
+Tempo medio MPI (sem outliers): 33.0233 segundos
+Speedup: 0.1275
+Tempo medio Sequencial (sem outliers): 1.4066 segundos
+Tempo medio MPI (sem outliers): 21.4462 segundos
+Speedup: 0.0656
+Tempo medio Sequencial (sem outliers): 0.8054 segundos
+Tempo medio MPI (sem outliers): 1.0810 segundos
+Speedup: 0.7451
+Tempo medio Sequencial (sem outliers): 0.8239 segundos
+Tempo medio MPI (sem outliers): 1.6274 segundos
+Speedup: 0.5063
+Tempo medio Sequencial (sem outliers): 0.8452 segundos
+Tempo medio MPI (sem outliers): 2.0736 segundos
+Speedup: 0.4076
+Tempo medio Sequencial (sem outliers): 0.8213 segundos
+Tempo medio MPI (sem outliers): 2.0061 segundos
+Speedup: 0.4094
+Tempo medio Sequencial (sem outliers): 0.8131 segundos
+Tempo medio MPI (sem outliers): 1.0894 segundos
+Speedup: 0.7464
+Tempo medio Sequencial (sem outliers): 0.8217 segundos
+Tempo medio MPI (sem outliers): 1.1211 segundos
+Speedup: 0.7329
+Tempo medio Sequencial (sem outliers): 0.8690 segundos
+Tempo medio MPI (sem outliers): 1.1628 segundos
+Speedup: 0.7473
